@@ -62,31 +62,6 @@ A simple React-based Pomodoro timer application that helps you manage your work 
 - HTML5
 - CSS3
 
-## How to Run Locally
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
-   cd pomodoro-timer
-   ```
-
-2. **Install dependencies:**
-
-   Make sure you have Node.js and npm installed. Then, run:
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the app:**
-
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and go to `http://localhost:3000` to view the app.
-
 ## Components and Methods
 
 ### 1. Displayer Component
