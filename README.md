@@ -10,7 +10,6 @@ https://alkisax.github.io/git25and5PomodoroClockFreeCodeCampProject/
 ## Introduction
 
 The Pomodoro Timer app was developed in January 2025 as part of the FreeCodeCamp React curriculum. This  tool implements the popular Pomodoro Technique, alternating between focused work sessions (traditionally 25 minutes) and refreshing breaks (5 minutes) to maximize productivity while preventing burnout.
-
 **note**: This README was auto-created in large part using generative AI, with careful checking and supervision by the app creator
 
 ## Key Features
